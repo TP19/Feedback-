@@ -1,0 +1,24 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "categoryName": "Books",
+      "topicName": "Rails VS Node"
+    },
+    {
+      "id": 2,
+      "categoryName": "Science",
+      "topicName": "Renewable energy in praxis "
+    },
+    {
+      "id": 3,
+      "categoryName": "Music",
+      "topicName": "Digitalising the analogue path"
+    },
+    {
+      "id": 4,
+      "categoryName": "Space",
+      "topicName": "Rovers on Venus"
+    }
+  ]
+}

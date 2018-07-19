@@ -1,0 +1,17 @@
+.TopicPrev {
+  margin: 1em;
+  border: 1px solid black; }
+  .TopicPrev .category-name {
+    border-bottom: 1px solid #FFFFF0;
+    padding: 0.5em 0.5em;
+    background-color: whitesmoke;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.2em; }
+  .TopicPrev .topic-name {
+    padding: 0.5em;
+    text-align: center; }
+  .TopicPrev .home-link.link {
+    padding: 0.1em;
+    color: gray;
+    margin-top: 2em; }
